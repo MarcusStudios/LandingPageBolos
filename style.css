@@ -190,3 +190,83 @@ footer {
         font-size: 1.2rem;
     }
 }
+.bestsellers {
+    padding: 5rem 2rem;
+    background-color: #FFF0F5;
+    overflow: hidden;
+}
+
+.slider-container {
+    position: relative;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 50px;
+}
+
+.cakes-grid {
+    display: flex;
+    gap: 2rem;
+    transition: transform 0.5s ease;
+    width: fit-content;
+}
+
+.cake-card {
+    flex: 0 0 300px;
+    width: 300px;
+}
+
+/* Botões do slider */
+.slider-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: #FF69B4;
+    border: none;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    color: white;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    transition: background-color 0.3s;
+}
+
+.slider-btn:hover {
+    background-color: #FF1493;
+
+}
+
+.prev-btn {
+    left: 0;
+    z-index: 1;
+}
+
+.next-btn {
+    right: 0;
+    z-index: 1;
+}
+
+/* Dots do slider */
+.dots-container {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-top: 2rem;
+}
+
+.dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #ccc;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.dot.active {
+    background-color: #FF69B4;
+}
