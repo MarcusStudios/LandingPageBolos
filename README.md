@@ -2,7 +2,7 @@
 
 Um site elegante e responsivo para uma confeitaria especializada em bolos artesanais, destacando os produtos mais vendidos, informações sobre a empresa e formas de contato.
 
-![Doce Sabor Preview](https://via.placeholder.com/800x400)
+![Doce Sabor Preview]([https://via.placeholder.com/800x400](https://raw.githubusercontent.com/MarcusStudios/LandingPageBolos/refs/heads/main/imgs/cenoura.webp))
 
 ## 📋 Visão Geral
 
