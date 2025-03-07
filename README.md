@@ -26,7 +26,7 @@ O site "Doce Sabor" foi desenvolvido para apresentar uma confeitaria especializa
 
 1. Clone este repositório:
    ```
-   git clone https://github.com/seu-usuario/doce-sabor.git
+   git clone https://github.com/MarcusStudios/doce-sabor.git
    ```
 
 2. Abra o arquivo `index.html` em seu navegador ou configure um servidor local.
@@ -89,9 +89,9 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para d
 ## 📞 Contato
 
 Para mais informações ou suporte, entre em contato através de:
-- Email: seu-email@exemplo.com
-- GitHub: [seu-usuario](https://github.com/seu-usuario)
+- Email: marcuseduardo846@gmail.com
+- GitHub: [MarcusStudios](https://github.com/MarcusStudios)
 
 ---
 
-Desenvolvido com ❤️ por [Seu Nome](https://github.com/seu-usuario)
+Desenvolvido com ❤️ por [Marcus Eduardo](https://github.com/MarcusStudios)
