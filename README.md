@@ -2,8 +2,7 @@
 
 Um site elegante e responsivo para uma confeitaria especializada em bolos artesanais, destacando os produtos mais vendidos, informações sobre a empresa e formas de contato.
 
-![Doce Sabor Preview]([https://via.placeholder.com/800x400](https://raw.githubusercontent.com/MarcusStudios/LandingPageBolos/refs/heads/main/imgs/cenoura.webp))
-
+![Doce Sabor Preview](https://raw.githubusercontent.com/MarcusStudios/LandingPageBolos/main/imgs/cenoura.webp)
 ## 📋 Visão Geral
 
 O site "Doce Sabor" foi desenvolvido para apresentar uma confeitaria especializada em bolos artesanais de alta qualidade. O design é focado em despertar o apetite dos visitantes e facilitar a navegação para encontrar informações sobre produtos, a empresa e contatos.
