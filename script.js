@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const dotsContainer = document.querySelector('.dots-container');
 
     let currentIndex = 0;
-    const cardWidth = cards[0].offsetWidth + 32; // width + gap
+    const cardWidth = cards[0].offsetWidth + 32; // wxidth + gap
     const maxIndex = cards.length - 1;
 
     // Criar dots
