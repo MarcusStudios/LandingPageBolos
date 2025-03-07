@@ -9,6 +9,7 @@ O site "Doce Sabor" foi desenvolvido para apresentar uma confeitaria especializa
 
 ## ✨ Funcionalidades
 
+
 - **Layout Responsivo**: Adaptação para diferentes tamanhos de tela
 - **Navegação Intuitiva**: Menu de navegação claro e direto
 - **Slider de Produtos**: Exibição dos bolos mais vendidos com controles de navegação
